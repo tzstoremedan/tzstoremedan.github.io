@@ -2,13 +2,13 @@
 
 main {
 	background: #87CEFA;
-	color: #B0C4DE;
+	color: #FAFAFA;
 }
 
 .icons-social a {
-	color: #B0C4DE;
+	color: #FAFAFA;
 }
 
 .icons-social a svg path{
-	fill: #B0C4DE;
+	fill: #FAFAFA;
 }
